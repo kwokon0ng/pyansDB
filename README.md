@@ -1,6 +1,6 @@
 # pyansDB (Hello world)
 
-Learning about Python and Ansible code!
+Python and Ansible code!
         
 ## Built With
 
