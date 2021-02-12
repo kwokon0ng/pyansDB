@@ -12,6 +12,6 @@
                   
   - name: "copy module - copy a file to our server"
     copy:
-      src: ~/pyansDB/files/sample.cfg   # on the controller
+      src: ~/pyansDB/ansible/files/sample.cfg   # on the controller
       dest: ~/sample.cfg                # location on servers
 
